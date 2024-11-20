@@ -1,0 +1,6 @@
+name: project_for_blind_people
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - pathlib
