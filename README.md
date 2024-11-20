@@ -37,15 +37,17 @@ In this project I used Yolo model to segment street objects such as people, cars
 
 Below I've outlined a complete guide for realizing this project.
 
-![guise](references\\guide_for_project.jpg)
+**Guide:**
+
+<img src="references\\guide_for_project.jpg" alt="Image 1" />
 
 **Here is the training result for object segmentation**
 
-![qadam](reports\figures\result_qadam_train\results.png) 
+<img src="reports\figures\result_qadam_train\results.png" alt="Image 1" />
 
 And the image test
 
-![qadam](reports\output.png) 
+<img src="reports\output.png" alt="Image 1" />
 
 **I also used the depth_pro tool to find the depth of the objects in the image. You can see the details here: https://github.com/apple/ml-depth-pro**
 
@@ -56,6 +58,7 @@ And the image test
 
 If you want to test just include app.py in the scripts folder
 
-![qadam](scripts\processed\processed_photo_27_2024-10-23_01-45-34.jpg) 
+<img src="scripts\processed\processed_photo_27_2024-10-23_01-45-34.jpg" alt="Image 1" />
+
 
 Half of the project is written here. I'm sorry but I can't upload the full project.
